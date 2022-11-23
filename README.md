@@ -633,6 +633,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [C++ FQA Lite](http://yosefk.com/c++fqa/) - C++ frequently questioned answers.
 * [Guru of the Week](http://www.gotw.ca/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
 * [Meeting C++](http://meetingcpp.com/)
+* [Explore C++ on kandi](https://kandi.openweaver.com/explore/c++) - Discover & find a curated list of popular libraries, trending project kits, tutorials & learning resources on kandi.
 
 ## Weblogs
 *Useful C/C++ related weblogs.*
